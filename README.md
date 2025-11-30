@@ -4,7 +4,7 @@
 
 # Council-Of-HALs
 
-*Where AI models gather like digital deities in Olympus, debating the fate of code and silicon...*
+*Kinda like the Council of Ricks, but make it AI, bringing your own deliberation council straight into your assistant/IDE/CLI of choice!*
 
 An MCP server that orchestrates true deliberative consensus - imagine HAL 9000, Jarvis, and Skynet sitting down for a civilized chat about your next big decision. Models actually debate each other across multiple rounds, refining their positions like philosophers in a cosmic symposium.
 
